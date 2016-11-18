@@ -1,0 +1,33 @@
+mini game instructions:
+---------------------------------|   By: Ibrahim Sardar
+
+=== Purpose ===
+To demonstrate Game Loop functions: load, update, & draw
+To demonstrate frame rate (40fps), 2D surface, blit order
+To demonstrate usage of Sprite class with collisions and bounds
+To demonstrate translation, rotation, and scaling
+
+=== Goal ===
+Eat the smaller fish to increase your size, speed, and acceleration.
+Avoid larger fish.
+Game restarts on collision with larger fish.
+
+=== Controls ===
+Q - quit
+Space - shoot mini fish (shrinks enemy fishes)
+Right/Left Arrow Keys - turn right/left
+Up/Down Arrow Keys - Accelerate forward/backward
+
+=== FILES (by me) ===
+main.lua
+blob.lua
+sprite.lua
+conf.lua
+blob.png   (would rather name it "fish.png")
+fish2.png
+Documentation.xlsx   (very, very basic)
+etc...   (other files not by me)
+
+
+
+ - Made with Lua, LOVE2D SDL2 Graphics Engine, SECL OOP mock class
