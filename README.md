@@ -21,4 +21,6 @@ copy all files/folders and put them somewhere on your pc. Then double click Game
 
 ## Docs?
 
-Documentation and instructions are in the 'info' folder. Note: documentation is ***extremely minimal*** at the moment (does not show return values). I will complete it in the near future.
+Documentation and instructions are in the 'info' folder.
+
+**Note:** documentation is ***extremely minimal*** at the moment (does not show return values). I will complete it in the near future.
